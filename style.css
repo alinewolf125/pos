@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ font-family: fantasy
+}
+body{
+    padding-bottom: ;
+}
+
+.asos{
+    background-image: url(pexels-stefan-stefancik-919606.jpg);
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    padding-top: 100px;
+    padding-left: 500px;
+
+}
+.mg{
+    padding-left: 5px;
+}
+.img{
+    background-color: rgba(255, 255, 255, 0.89);
+    width: 450px;
+    padding-left: 130px;
+height: 300px;
+    border-radius: 20px;
+    padding-top: 50px;
+    
+    backdrop-filter: blur(13px) saturate(78%);
+    -webkit-backdrop-filter: blur(13px) saturate(78%);
+    background-color: rgba(255, 255, 255, 0.54);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+.img img{
+    border-radius: 136px;
+
+
+    #e0e0e0
+
+
+
+
+
+
+
+
+
+    Copy
+    border-radius: 50%;
+    background: #e0e0e0;
+    box-shadow:  30px 30px 60px #5c5c5c,
+                 -30px -30px 60px #ffffff;
+  width: 150px;
+
+}
+.img i:hover{
+    color: black;
+    transition: 3s;
+}
+.img i{
+    color:rgb(126, 95, 95);
+    border-radius: red;
+    font-size: 20px;
+    padding: 5px;
+    padding-top: 50px;
+    cursor: pointer;
+    color: red;
+    box-sizing: border-box;
+}
+ h1 {
+width: 50px;
+}
+.ya{
+  
+    display: flex;
+padding-right: 50px;
+    padding-top: 40px;
+}
+.ya p{
+    cursor: pointer;
+    
+    padding: 19px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ya p:hover{
+    background: white;
+    transition: 1s;
+   
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.contacs{
+
+    padding-left: 10px ;
+    background-color: rgba(255, 255, 255, 0.753);
+}
+.contacts h1{
+    padding-right: 50px;
+}
+.span span{
+    color: #3A332E;
+    padding-left: 5px;
+}
